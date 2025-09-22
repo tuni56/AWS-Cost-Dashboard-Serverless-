@@ -1,0 +1,8 @@
+{
+  "BucketName": "my-cur-bucket",
+  "CURReportName": "aws-cost-report",
+  "TimeUnit": "DAILY",
+  "Format": "text/csv",
+  "Compression": "GZIP",
+  "AdditionalSchemaElements": ["RESOURCES"]
+}
